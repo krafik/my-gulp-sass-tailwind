@@ -1,0 +1,33 @@
+{
+  "name": "ucheb0122",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "krafik",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "browser-sync": "^2.27.7",
+    "compress-images": "^2.0.4",
+    "del": "^6.0.0",
+    "gifsicle": "^5.3.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^5.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^3.0.0",
+    "jquery": "^3.6.0",
+    "pngquant-bin": "^6.0.0",
+    "postcss": "^8.4.6",
+    "sass": "^1.49.7",
+    "tailwindcss": "^3.0.20"
+  }
+}
